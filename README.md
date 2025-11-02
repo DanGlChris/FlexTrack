@@ -14,7 +14,7 @@ Key innovations include:
 
 The pipeline was developed for the FlexTrack Challenge and achieved a **G-Mean of 0.618** (classification) and **nMAE of 0.991** (regression) on the private test set.
 
-For a detailed academic description, see the accompanying paper: **[A Hybrid Two-Stage Ensemble Framework for Detecting and Quantifying Energy Flexibility in Buildings: A Solution to the FlexTrack Challenge](paper.pdf)**.
+For a detailed academic description, see the accompanying paper: **[A Hybrid Two-Stage Ensemble Framework for Detecting and Quantifying Energy Flexibility in Buildings: A Solution to the FlexTrack Challenge](Paper.pdf)**.
 
 Kaggle Notebook: **[FlexTrack 2025 Hybrid Ensemble Solution](https://www.kaggle.com/code/dagloxkankwanda/flextrack-aicrowd-notebook/edit)**
 
