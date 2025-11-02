@@ -93,6 +93,8 @@ flextrack_pipeline/
 |   ├── flextrack-2025-random-prediction-data-v0.2.csv
 |   └── flextrack-2025-training-data-v0.2.csv
 ├── flextrack_pipeline.py     
+├── flextrack-aicrowd-notebook.ipynb                 
+├── LICENSE                 
 ├── README.md                 
 ├── Paper.pdf                 
 ├── Model Architecture.png   
@@ -106,7 +108,7 @@ flextrack_pipeline/
 - See the paper's Discussion section for more.
 
 ## License
-MIT License. See [LICENSE](LICENSE) (create if needed).
+MIT License. See [LICENSE](LICENSE.txt).
 
 ## Acknowledgments
 - Developed for the FlexTrack Challenge 2025 by **Daglox Kankwanda** (dagloxkankwanda@gmail.com).
