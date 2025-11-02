@@ -108,7 +108,7 @@ flextrack_pipeline/
 - See the paper's Discussion section for more.
 
 ## License
-MIT License. See [LICENSE](LICENSE.txt).
+GNU v3 License. See [LICENSE](LICENSE.txt).
 
 ## Acknowledgments
 - Developed for the FlexTrack Challenge 2025 by **Daglox Kankwanda** (dagloxkankwanda@gmail.com).
