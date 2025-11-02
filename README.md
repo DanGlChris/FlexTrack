@@ -91,10 +91,10 @@ flextrack_pipeline/
 |   ├── flextrack-2025-public-test-data-v0.2.csv 
 |   ├── flextrack-2025-public-test-data-v0.3.csv
 |   ├── flextrack-2025-random-prediction-data-v0.2.csv
-|   └──flextrack-2025-training-data-v0.2.csv
+|   └── flextrack-2025-training-data-v0.2.csv
 ├── flextrack_pipeline.py     
 ├── README.md                 
-├── paper.pdf                 
+├── Paper.pdf                 
 ├── Model Architecture.png   
 └── submission.csv            
 ```
