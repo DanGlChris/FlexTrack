@@ -108,7 +108,7 @@ flextrack_pipeline/
 - See the paper's Discussion section for more.
 
 ## License
-GNU v3 License. See [LICENSE](LICENSE.txt).
+GNU License. See [LICENSE](LICENSE.txt).
 
 ## Acknowledgments
 - Developed for the FlexTrack Challenge 2025 by **Daglox Kankwanda** (dagloxkankwanda@gmail.com).
@@ -126,3 +126,4 @@ If using this work, please cite the paper:
   doi={...}
 }
 ```
+![](https://komarev.com/ghpvc/?username=DanGlChris-FlexTrack&color=1255A0&label=VIEWS)
