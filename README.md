@@ -116,14 +116,27 @@ GNU License. See [LICENSE](LICENSE.txt).
 - Code inspired by building energy ML literature (citations in paper).
 
 ## Citation
-If using this work, please cite the paper:
-```
-@INPROCEEDINGS{kankwanda2025flextrack,
-  author={Kankwanda, Daglox},
-  title={A Hybrid Two-Stage Ensemble Framework for Detecting and Quantifying Energy Flexibility in Buildings: A Solution to the FlexTrack Challenge},
-  booktitle={IEEE Conference Proceedings},
-  year={2025},
-  doi={...}
+
+This project is a citable, open-source contribution to the field. If you use the code or methodology in your research, please cite the official software record on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17560059.svg)](https://doi.org/10.5281/zenodo.17560059)
+
+### BibTeX Entry
+
+For academic publications, you can use the following BibTeX entry. This refers to the specific archived version on Zenodo.
+
+```bibtex
+@software{kankwanda_daglox_2025_17560059,
+  author       = {Kankwanda, Daglox},
+  title        = {{A Hybrid Two-Stage Ensemble Framework for Detecting 
+                   and Quantifying Energy Flexibility in Buildings: A
+                   Solution to the FlexTrack Challenge}},
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.17560059},
+  url          = {https://doi.org/10.5281/zenodo.17560059}
 }
 ```
 ![](https://komarev.com/ghpvc/?username=DanGlChris-FlexTrack&color=1255A0&label=VIEWS)
