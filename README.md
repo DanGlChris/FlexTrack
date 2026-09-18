@@ -111,7 +111,7 @@ flextrack_pipeline/
 GNU License. See [LICENSE](LICENSE.txt).
 
 ## Acknowledgments
-- Developed for the FlexTrack Challenge 2025 by **Daglox Kankwanda** (dagloxkankwanda@gmail.com).
+- Developed for the FlexTrack Challenge 2025 by **Daglox Kankwanda**.
 - Thanks to AICrowd, NSW Government, CSIRO, and RACE for 2030 CRC for the dataset and platform.
 - Code inspired by building energy ML literature (citations in paper).
 
